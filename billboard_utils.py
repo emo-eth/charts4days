@@ -1,6 +1,6 @@
 import billboard
 
-"Billboard utils"
+"Utils for formatting billboard charts as tweets"
 links_dont_count = False
 artist_handles = {}
 
